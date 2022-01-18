@@ -1,0 +1,94 @@
+.footer {
+    margin-top: 60px;
+}
+
+.footer-container {
+    position: relative;
+    width: 1240px;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.footer-top {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 60px;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    border-top: 1px solid hsla(0, 0%, 100%, 0.1);
+}
+
+.footer-bottom {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-top: 1px solid hsla(0, 0%, 100%, 0.1);
+}
+
+.footer-left {
+    width: 40%;
+}
+
+.copyright {
+    font-family: "Bebas neue pro", Impact, sans-serif;
+    color: hsla(0, 0%, 100%, 0.2);
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.copyright-link {
+    -webkit-transition: color 200ms ease;
+    transition: color 200ms ease;
+    font-family: "Bebas neue pro", Impact, sans-serif;
+    color: hsla(0, 0%, 100%, 0.4);
+    font-size: 16px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.network-link-footer {
+    margin-bottom: 0px;
+    margin-left: 25px;
+}
+
+.footer-text {
+    margin-top: 20px;
+    background-image: linear-gradient(135deg, #fff, #ffe9d6);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.jp-footer {
+    position: absolute;
+    left: auto;
+    top: -311px;
+    right: 5%;
+    bottom: 0%;
+    height: 364px;
+}
+.image-4 {
+    height: 364px;
+}

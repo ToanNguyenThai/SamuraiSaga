@@ -1,0 +1,103 @@
+.the-story {
+    margin-top: 0px;
+}
+
+.story-container {
+    width: 1240px;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.title-holder {
+    position: relative;
+    z-index: 99;
+}
+
+.paragraph-holder {
+    padding-left: 80px;
+}
+
+.samurai-row-holder {
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.samurai-row {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 20px;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.samurai-holder {
+    overflow: hidden;
+    height: 438px;
+    min-width: 380px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.section-title {
+    font-family: "Bebas neue pro", Impact, sans-serif;
+    color: #b80707;
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.columns {
+    margin-top: 40px;
+}
+.samurai-row-2 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 20px;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.column-5 {
+    padding-right: 40px;
+    padding-left: 0px;
+}
+
+.column-6 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.samurai-row-3 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 20px;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.half-bcg {
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+    background-color: #181716;
+    background-image: url("https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618eb27e1e47b97dfffcb888_tex-bottom-1.png");
+    background-position: 50% 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

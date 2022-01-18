@@ -1,0 +1,73 @@
+.specs {
+    overflow: hidden;
+    padding-top: 220px;
+    padding-bottom: 300px;
+    background-color: #181716;
+    background-image: url("https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618eb27e1e47b97dfffcb888_tex-bottom-1.png"),
+        url("https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618eb27e0d79bc96755d2f6b_tex-top-1.png");
+    background-position: 50% 100%, 50% 0%;
+    background-size: contain, contain;
+    background-repeat: no-repeat, no-repeat;
+    background-attachment: scroll, scroll;
+}
+
+.specs-container {
+    width: 1240px;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.paragraph-note {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 60px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+.note-icon {
+    margin-right: 20px;
+}
+.paragraph-holder--2 {
+    position: relative;
+    z-index: 99;
+    width: 60%;
+    padding-left: 0px;
+}
+.notice-text {
+    font-family: "Bebas neue pro", Impact, sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.samurai-grunge-holder {
+    position: absolute;
+    left: auto;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    z-index: 1;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 50%;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.image-8 {
+    width: 600px;
+    padding-right: 40px;
+}

@@ -1,0 +1,70 @@
+.roadmap {
+    background-color: #181716;
+    background-image: url("https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/618eb27e1e47b97dfffcb888_tex-bottom-1.png"),
+        url("https://uploads-ssl.webflow.com/618920e5b4d12352352ee7e3/61914c2e69a98a80f63799ba_txt-big.png");
+    background-position: 50% 100%, 50% 0%;
+    background-size: contain, contain;
+    background-repeat: no-repeat, no-repeat;
+}
+
+.roadmap-container {
+    width: 1240px;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.rm-block {
+    padding-right: 140px;
+}
+
+.column {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.rm-rows {
+    margin-top: 60px;
+}
+.disclaimer {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 60px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.paragraph-16.center {
+    text-align: center;
+}
+
+.paragraph-16.center._60 {
+    width: 50%;
+}
+.image-3 {
+    margin-bottom: 20px;
+}
+.column-2 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.column-3 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.column-4 {
+    padding-right: 0px;
+    padding-left: 0px;
+}

@@ -1,0 +1,189 @@
+.right-arrow {
+    left: auto;
+    top: auto;
+    right: 0%;
+    bottom: 0%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 44px;
+    height: 44px;
+    margin-left: 10px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fff;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.1);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.right-arrow:hover {
+    border-color: #b80707;
+    background-color: rgba(184, 7, 7, 0.1);
+}
+
+.team {
+    overflow: hidden;
+    padding-top: 0px;
+    padding-bottom: 120px;
+}
+
+.left-arrow {
+    left: auto;
+    top: auto;
+    right: 7%;
+    bottom: 0%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 44px;
+    height: 44px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #fff;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.1);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    -webkit-transition: all 300ms ease;
+    transition: all 300ms ease;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.left-arrow:hover {
+    border-color: #b80707;
+    background-color: rgba(184, 7, 7, 0.2);
+}
+
+.custom-slide-image-mask {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    border-radius: 6px;
+}
+
+.team-container {
+    width: 1240px;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.member-name {
+    font-family: "Bebas neue pro", Impact, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+.team-member-details {
+    margin-top: 20px;
+}
+
+.team-member-image {
+    overflow: hidden;
+    width: 380px;
+    height: 438px;
+}
+
+.team-member {
+    max-width: 380px;
+}
+.image-2 {
+    position: absolute;
+    -webkit-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+.mask-2 {
+    overflow: visible;
+    width: 400px;
+    height: auto;
+}
+.slider-2 {
+    height: auto;
+    margin-top: 40px;
+    padding-bottom: 100px;
+    background-color: transparent;
+}
+
+.slide-nav-2 {
+    display: none;
+}
+.icon-holder-insta {
+    margin-top: -5px;
+    margin-left: 10px;
+}
+.name-with-icon {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.image-7 {
+    -webkit-transition: all 400ms ease;
+    transition: all 400ms ease;
+}
+
+.image-7:hover {
+    opacity: 0;
+}
+.image-7-hover {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    z-index: -1;
+}
+.link-block {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
